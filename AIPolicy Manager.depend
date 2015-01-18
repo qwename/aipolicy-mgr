@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1374468649 source:c:\users\user\documents\codeblocks\aipolicy manager\aipolicydata.cpp
+	"DataConverter.h"
+	"AITriggerData.h"
+	"AIPolicyData.h"
+
+1374451614 c:\users\user\documents\codeblocks\aipolicy manager\dataconverter.h
+	<cstddef>
+	<cstring>
+
+1376463976 c:\users\user\documents\codeblocks\aipolicy manager\aitriggerdata.h
+
+1374453733 c:\users\user\documents\codeblocks\aipolicy manager\aipolicydata.h
+	<vector>
+
+1374468666 source:c:\users\user\documents\codeblocks\aipolicy manager\aipolicydatamanager.cpp
+	<sstream>
+	"DataConverter.h"
+	"AIPolicyData.h"
+	"AIPolicyDataManager.h"
+
+1374453737 c:\users\user\documents\codeblocks\aipolicy manager\aipolicydatamanager.h
+	<string>
+	<vector>
+	<cstddef>
+
+1374468725 source:c:\users\user\documents\codeblocks\aipolicy manager\aitriggerdata.cpp
+	"DataConverter.h"
+	"AITriggerData.h"
+
+1374451624 source:c:\users\user\documents\codeblocks\aipolicy manager\dataconverter.cpp
+	<stdexcept>
+	"DataConverter.h"
+
+1374452206 source:c:\users\user\documents\codeblocks\aipolicy manager\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstddef>
+	"AIPolicyDataManager.h"
+
